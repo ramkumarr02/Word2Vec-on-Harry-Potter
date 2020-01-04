@@ -12,6 +12,15 @@ Word2Vec on Harry Potter
 
 
 # Results
-## Quidditch
 
-![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Local%20Quidditch.PNG)  ![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Google%20Quidditch.PNG)
+## Quidditch
+![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Local%20Quidditch.PNG)  
+![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Google%20Quidditch.PNG)
+
+## Horcrux
+![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Local%20Horcrux.PNG)  
+![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Google%20Horcrux.PNG)
+
+## Basilisk
+![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Local%20Basilisk.PNG)  
+![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Google%20Basilisk.PNG)
