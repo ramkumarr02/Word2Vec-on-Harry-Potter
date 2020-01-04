@@ -12,3 +12,4 @@ Word2Vec on Harry Potter
 
 
 # Results
+![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Local%20Quidditch.PNG)
