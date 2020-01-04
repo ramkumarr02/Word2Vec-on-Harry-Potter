@@ -12,4 +12,6 @@ Word2Vec on Harry Potter
 
 
 # Results
-![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Local%20Quidditch.PNG)
+## Quidditch
+
+![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Local%20Quidditch.PNG)  ![alt text](https://github.com/ramkumarr02/Word2Vec-on-Harry-Potter/blob/master/Google%20Quidditch.PNG)
