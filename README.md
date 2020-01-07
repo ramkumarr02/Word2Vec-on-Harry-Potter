@@ -1,7 +1,7 @@
 # Word2Vec-on-Harry-Potter
 Word2Vec on Harry Potter
 
-#Data courtesy : https://github.com/formcept/whiteboard.git by anujsrc
+### Data courtesy : https://github.com/formcept/whiteboard.git by anujsrc
 
 # References 
 
