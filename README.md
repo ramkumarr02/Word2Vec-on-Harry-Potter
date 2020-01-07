@@ -3,7 +3,7 @@ Word2Vec on Harry Potter
 
 #Data courtesy : https://github.com/formcept/whiteboard.git by anujsrc
 
-# Guidance 
+# References 
 
 1. https://radimrehurek.com/gensim/models/phrases.html
 2. https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial
